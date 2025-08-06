@@ -1,5 +1,6 @@
 # regression-house
 🏡 House Price Prediction using Linear Regression
+
 This project focuses on predicting house prices using a Linear Regression model. The workflow involves data preparation, feature evaluation, model training, and performance assessment using RMSE and R² metrics
 
 📁 Dataset
