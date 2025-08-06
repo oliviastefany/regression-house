@@ -1,6 +1,6 @@
 # regression-house
 🏡 House Price Prediction using Linear Regression
-This project focuses on predicting house prices using a Linear Regression model. The workflow involves data analysis, feature evaluation, model training, and performance assessment using RMSE and R² metrics.
+This project focuses on predicting house prices using a Linear Regression model. The workflow involves data preparation, feature evaluation, model training, and performance assessment using RMSE and R² metrics
 
 📁 Dataset
 The dataset used in this project is publicly available on Kaggle: https://www.kaggle.com/datasets/prokshitha/home-value-insights
